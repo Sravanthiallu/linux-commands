@@ -1,0 +1,4 @@
+command:ls (command lists files and directories within a system)
+options:ls -R lists all the files in the subdirectories.
+ls -a shows hidden files in addition to the visible ones.
+ls -lh shows the file sizes in easily readable formats, such as MB, GB, and TB
