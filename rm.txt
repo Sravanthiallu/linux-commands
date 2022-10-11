@@ -1,0 +1,5 @@
+command:rm(used to delete files within a directory)
+options:-i prompts system confirmation before deleting a file
+        -f allows the system to remove without a confirmation
+        -r deletes files and directories recursively
+ syntax:rm filename
