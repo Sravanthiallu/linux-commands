@@ -1,0 +1,5 @@
+command:cat( is one of the most frequently used Linux commands)
+other ways to use the cat command:
+cat > filename.txt creates a new file.
+cat filename1.txt filename2.txt > filename3.txt merges filename1.txt and filename2.txt and stores the output in filename3.txt.
+tac filename.txt displays content in reverse order.
