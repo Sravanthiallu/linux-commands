@@ -1,0 +1,4 @@
+command:su command allows you to run a program as a different user
+options:-p or –preserve-environment keeps the same shell environment, consisting HOME, SHELL, USER, and LOGNAME.
+-s or –shell lets you specify a different shell environment to run.
+-l or –login runs a login script to switch to a different username. Executing it requires you to enter the user’s password.
