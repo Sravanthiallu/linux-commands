@@ -1,0 +1,2 @@
+command: chown command lets you change the ownership of a file, directory, or symbolic link to a specified username.
+ basic format:chown [option] owner[:group] file(s)
