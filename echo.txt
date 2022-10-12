@@ -1,0 +1,9 @@
+command:echo command is a built-in utility that displays a line of text or string using the standard output. 
+basic syntax:echo [option] [string]
+options:
+-n displays the output without the trailing newline.
+-e enables the interpretation of the following backslash escapes:
+\a plays sound alert.
+\b removes spaces in between a text.
+\c produces no further output.
+-E displays the default option and disables the interpretation of backslash escapes.
