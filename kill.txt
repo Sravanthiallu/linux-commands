@@ -1,0 +1,2 @@
+command: kill command to terminate an unresponsive program manually. 
+syntax:kill [signal_option] pid
