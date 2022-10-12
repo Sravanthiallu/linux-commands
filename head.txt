@@ -1,0 +1,5 @@
+command:head command allows you to view the first ten lines of a text
+syntax:head [option] [file]
+options:-n or –lines prints the first customized number of lines. For example, enter head -n 5 filename.txt to show the first five lines of filename.txt.
+-c or –bytes prints the first customized number of bytes of each file.
+-q or –quiet will not print headers specifying the file name
